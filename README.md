@@ -29,7 +29,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Longevity Protocols](https://longevity-protocols.com/) 
 
 ## Courses and Education
-- [The Longevity Blueprint (Longevity Life Academy)](https://longevitylifeacademy.pages.dev/): An 18-week live course in which students build a personal longevity protocol from their own data, CGM glucose curves, bloodwork, body composition and wearable metrics, and finish with a written protocol they keep. An Abbott Lingo continuous glucose monitor is included. Faculty includes Julie Gibson Clark, ranked #2 on the Rejuvenation Olympics for slowest measured aging pace.
+- [The Longevity Blueprint (Longevity Life Academy)](https://longevitylifeacademy.pages.dev/): An 18-week live course in which students build a personal longevity protocol from their own data, CGM glucose curves, bloodwork, body composition and wearable metrics, and finish with a written protocol they keep. An Abbott Lingo continuous glucose monitor is included. Instructors include Natalie Blackbourne, Courtney Donofrio and Amy Jamieson of UC Santa Barbara; Julie Gibson Clark, ranked #2 on the Rejuvenation Olympics for slowest measured aging pace, is founding faculty.
 
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)
